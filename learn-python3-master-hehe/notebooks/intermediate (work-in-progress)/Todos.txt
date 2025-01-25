@@ -1,0 +1,2 @@
+Add lessons about interacting with excel
+Add inspirational lessons on talking to APIs/grabbing info from the web/making graphics
